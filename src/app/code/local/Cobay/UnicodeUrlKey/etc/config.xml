@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Cobay_UnicodeUrlKey>
+            <version>0.0.1</version>
+        </Cobay_UnicodeUrlKey>
+    </modules>
+    <global>
+        <models>
+            <catalog>
+                <rewrite>
+                    <product_url>Cobay_UnicodeUrlKey_Model_Product_Url</product_url>
+                    <category>Cobay_UnicodeUrlKey_Model_Category</category>
+                </rewrite>
+            </catalog>
+            <core_resource>
+                <rewrite>
+                    <url_rewrite>Cobay_UnicodeUrlKey_Model_Resource_Url_Rewrite</url_rewrite>
+                </rewrite>
+            </core_resource>
+        </models>
+    </global>
+</config>

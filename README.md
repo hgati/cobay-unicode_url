@@ -1,2 +1,3 @@
-# cobay-unicode_url_key
+# Magento unicode url key
 
+#### Magento unicode URL support

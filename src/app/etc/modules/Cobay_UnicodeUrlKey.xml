@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Cobay_UnicodeUrlKey>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Cobay_UnicodeUrlKey>
+    </modules>
+</config>
