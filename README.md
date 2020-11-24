@@ -1,3 +1,3 @@
 # Magento unicode url key
 
-#### Magento unicode URL support
+#### Magento unicode URL support (Korean)
